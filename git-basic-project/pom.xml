@@ -3,4 +3,13 @@
   <groupId>com.npntraining</groupId>
   <artifactId>git-basic-project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.0.0-alpha-5</version>
+</dependency>
+  
+  </dependencies>
 </project>
